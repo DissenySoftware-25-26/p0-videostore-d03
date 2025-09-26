@@ -9,6 +9,7 @@ public class Customer
 
 	public Customer (String name) {
 		this.name = name;
+		print("hola");
 	}
 	
 	public void addRental (Rental rental) {
